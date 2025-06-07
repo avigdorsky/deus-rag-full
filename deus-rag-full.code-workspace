@@ -1,0 +1,1 @@
+{"folders": [{"path": "."}, {"path": "rag_api"}, {"path": "ui-core"}, {"path": "vault"}, {"path": "docs"}], "settings": {"editor.formatOnSave": True, "files.exclude": {"**/__pycache__": True, "**/.DS_Store": True, "**/.env": True}, "python.pythonPath": "python3", "terminal.integrated.defaultProfile.osx": "zsh"}}
